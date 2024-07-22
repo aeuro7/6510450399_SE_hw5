@@ -1,3 +1,6 @@
+// 6510450399 Tibet Charoensripaiboon
+// 6510450399 ทิเบต เจริญศรีไพบูลย์
+
 public class main {
     public static void main(String[] args) {
         GumballMachine gumballMachine = new GumballMachine(5);
@@ -16,6 +19,8 @@ public class main {
         gumballMachine.chooseFlavor("Orange");
         gumballMachine.turnCrank();
         System.out.println(gumballMachine);
+
+
 
     }
 }

@@ -1,3 +1,6 @@
+// 6510450399 Tibet Charoensripaiboon
+// 6510450399 ทิเบต เจริญศรีไพบูลย์
+
 import java.util.Random;
 
 public class HasQuarterState implements State {

@@ -1,3 +1,6 @@
+// 6510450399 Tibet Charoensripaiboon
+// 6510450399 ทิเบต เจริญศรีไพบูลย์
+
 public class WinnerState implements State {
     GumballMachine gumballMachine;
 

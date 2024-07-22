@@ -1,4 +1,5 @@
-import java.util.Random;
+// 6510450399 Tibet Charoensripaiboon
+// 6510450399 ทิเบต เจริญศรีไพบูลย์
 
 public class NoQuarterState implements State {
     GumballMachine gumballMachine;
